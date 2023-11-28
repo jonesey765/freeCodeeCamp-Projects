@@ -21,7 +21,7 @@
   <li>Growled if you were sitting in his chair</li>
   <li>Let children play with him</li>
   <li>Was the best dog ever</li>
-  </ul/
+  </ul>
   <p>If you want to learn more about Buckley, visit his <a id="tribute-link" target="_blank" href="https://photos.app.goo.gl/vrGRayo9DJSJcW8G7"> photo album.</a></p>
         </main>
 
